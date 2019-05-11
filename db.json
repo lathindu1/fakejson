@@ -1,13 +1,13 @@
 {
-power: 1,
- pump-1:{
-    power:1,
-    trip:1,
-    level:1,
+"power": 1,
+ "pump-1":{
+    "power":1,
+    "trip":1,
+    "level":1,
  }
- pump-2:{
-    power:1,
-    trip:1,
-    level:1,
+ "pump-2":{
+    "power":1,
+    "trip":1,
+    "level":1,
  }
 }
